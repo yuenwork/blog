@@ -1,1 +1,1 @@
-# blog
+# start frontend learning @ jirengu
